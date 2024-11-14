@@ -1,5 +1,5 @@
 ### **N-Queens Genetic Algorithm**
-An implementation of the N-Queens problem using a Genetic Algorithm (GA) to find valid solutions 8*8 board size.
+An implementation of the N-Queens problem using a Genetic Algorithm (GA) to find valid solutions for different board sizes.
 
 ---
 
