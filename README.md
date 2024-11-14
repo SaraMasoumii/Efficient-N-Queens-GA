@@ -17,15 +17,12 @@ An implementation of the N-Queens problem using a Genetic Algorithm (GA) to find
 - **Genetic Algorithm Optimization:**
   - Implements selection, crossover, and mutation techniques.
   - Prioritizes valid solutions with minimal computation.
-- **Visual Output:** Displays the solved board in a clear and interactive format.
-- **Efficient Execution:** Designed for performance, capable of handling larger board sizes effectively.
 
 ---
 
 ### 📋 Prerequisites
 - Python 3.7 or higher
 - NumPy
-- Matplotlib (for visualization)
 
 ---
 
@@ -41,7 +38,6 @@ Follow the prompts to:
 
 Output:
 - Prints the solved board in a matrix format.
-- Displays a graphical representation (if enabled).
 
 ---
 
