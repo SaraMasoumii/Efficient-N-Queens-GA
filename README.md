@@ -32,7 +32,7 @@ An optimized implementation of the N-Queens problem using a Genetic Algorithm (G
 ### 💻 Usage
 Run the program to solve the N-Queens problem:
 ```bash
-python hw1.py
+python n_queens_ga.py
 ```
 
 Follow the prompts to:
