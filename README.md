@@ -1,5 +1,5 @@
-### **Efficient-N-Queens-GA**
-An optimized implementation of the N-Queens problem using a Genetic Algorithm (GA) to find valid solutions for various board sizes efficiently.
+### **N Queens Genetic Algorithm**
+An implementation of the N-Queens problem using a Genetic Algorithm (GA) to find valid solutions 8*8 board size.
 
 ---
 
